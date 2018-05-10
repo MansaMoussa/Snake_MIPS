@@ -12,8 +12,8 @@ How to build the game :
 How to run the game :
 
   Open the Tool "Bitmap Display" :
-    Set "Unit Width in Pixels" on 16            ;
-    Set "Unit Height in Pixels" on 16           ;
+    \tSet "Unit Width in Pixels" on 16            ;
+    \tSet "Unit Height in Pixels" on 16           ;
     Set "Display Width in Pixels" on 256        ;
     Set "Display Height in Pixels" on 256       ;
     Set "Base address for display" on 0x10010000;
