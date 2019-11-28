@@ -1,6 +1,9 @@
 # Snake_MIPS
 The popular game Snake in MIPS.
 
+### Description
+The program provides a multicolored snake that feeds on the raspberries that appear on the platform, increases its size and sees a new obstacle appear in the game; its speed also increases as the level increases.
+
 How to build the game : 
 
   Open the application Mars.jar
